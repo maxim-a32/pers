@@ -1,5 +1,5 @@
-
 b = 0
+a = input("a")
 class Personag:
     name = None
     capability = None
