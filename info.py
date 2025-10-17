@@ -1,4 +1,4 @@
-def info:
+def info():
     b = 0
     a = input("a")
     class Personag:
