@@ -18,7 +18,7 @@ def info():
             self.name = name
             self.effect = effect
         def info(self):
-            print(self.name, self.effect)
+            print("назва: ", self.name, "що робить: ", self.effect)
     ic = Personag()
     fire = Personag()
     heal = Subject()
