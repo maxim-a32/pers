@@ -1,6 +1,6 @@
 def info():
     b = 0
-    a = input("a")
+    a = input("Ведіть назву персонажа або предмета щоб про них дізнатися персонажі ice i fire предмети atac i heal")
     class Personag:
         name = None
         capability = None
